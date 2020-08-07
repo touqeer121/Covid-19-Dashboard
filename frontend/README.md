@@ -1,6 +1,7 @@
 # COVID-19 Dashboard
 
 #Introduction
+
 Covid19 Dashboard provides latest information and track of COVID-19 virus spread in the world.  
 
 Frontend : React.js
